@@ -1,0 +1,9 @@
+project-webservices/.settings
+project-webservices/target
+project-webservices/.classpath
+project-webservices/.project
+
+project-webservices-consumer/.settings
+project-webservices-consumer/target
+project-webservices-consumer/.classpath
+project-webservices-consumer/.project
